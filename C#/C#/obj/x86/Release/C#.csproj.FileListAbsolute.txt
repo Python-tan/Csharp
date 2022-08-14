@@ -1,0 +1,5 @@
+D:\Download\C#\C#\C#\bin\Release\C#.exe
+D:\Download\C#\C#\C#\bin\Release\C#.pdb
+D:\Download\C#\C#\C#\obj\x86\Release\C#.csprojResolveAssemblyReference.cache
+D:\Download\C#\C#\C#\obj\x86\Release\C#.exe
+D:\Download\C#\C#\C#\obj\x86\Release\C#.pdb

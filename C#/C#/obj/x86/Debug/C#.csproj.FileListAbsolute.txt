@@ -1,0 +1,5 @@
+D:\Download\C#\C#\C#\bin\Debug\C#.exe
+D:\Download\C#\C#\C#\bin\Debug\C#.pdb
+D:\Download\C#\C#\C#\obj\x86\Debug\C#.csprojResolveAssemblyReference.cache
+D:\Download\C#\C#\C#\obj\x86\Debug\C#.exe
+D:\Download\C#\C#\C#\obj\x86\Debug\C#.pdb
